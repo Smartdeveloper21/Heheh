@@ -19,7 +19,6 @@ TOKEN = "8796915387:AAFrLLBFSIL4OVkpVPQdJQecgCLHnOMBvrQ"
 ADMIN_ID = 7663096830
 STORAGE_DIR = "user_files"
 USERS_FILE = "bot_users.txt"
-REQUIREMENTS_DIR = "requirements"
 
 # Load existing users
 if os.path.exists(USERS_FILE):
